@@ -1,0 +1,7 @@
+{
+  "name": "Study of king",
+  "description": "An AI-powered, multi-level educational quest covering all countries, languages, and subjects with progressively harder challenges.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
